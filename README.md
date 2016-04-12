@@ -9,5 +9,5 @@
 
 ### Arquivos de configuração disponíveis:
 
-- Squid3
-- isc-dhcp-server
+- Squid3 - (squid.conf)
+- isc-dhcp-server - (dhcpd.conf)
